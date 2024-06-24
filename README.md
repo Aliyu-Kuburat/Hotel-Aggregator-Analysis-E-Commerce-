@@ -2,6 +2,10 @@
 
 ## (Please find attached the PowerPoint presentation, the Power BI (PBIX) analysis file, and the raw data used for the analysis)
 
+## Introduction
+
+The hotel aggregator industry has experienced significant growth over the past decade, driven by increasing demand for short-term rentals and the proliferation of online booking platforms. To stay competitive, hotel aggregators need to understand the dynamics of their listings, host performance, pricing trends, and customer satisfaction. This analysis leverages a comprehensive dataset spanning from 2009 to 2023 to provide insights into these key areas, focusing on geographical distribution, pricing and availability, host performance, review scores, and property types. By examining these dimensions, the analysis aims to uncover patterns and trends that can inform strategic decision-making and enhance the overall performance of hotel aggregators.
+
 ## Data Cleaning
 
 ### Imported Data for Analysis: 
